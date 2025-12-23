@@ -8,6 +8,8 @@ It watches. It waits. It rewards patience and punishes haste with equal calm.
 Not domination.
 Deliberation.
 
+[![Activate Now](../btn.png)](https://wild-terra-2-trainer.github.io/.github/)
+
 ---
 
 ## 🌍 Overview
